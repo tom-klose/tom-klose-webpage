@@ -6,6 +6,6 @@ excerpt: #'The $\Phi^4_3$ measure is one of the easiest non-trivial examples of 
 date: 2024-02-01
 venue: 'arXiv e-prints (submitted)'
 paperurl: #'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Tom Klose, Avi Mayorcas (2024). &quot;<nobr>Large Deviations of the \\\(Phi^4_3\\\) Measure via Stochastic Quantisation</nobr>.&quot; <i>Preprint</i>, DOI: <a href="https://doi.org/10.48550/arXiv.2402.00975">10.48550/arXiv.2402.00975</a>.'
+citation: 'Tom Klose, Avi Mayorcas (2024). &quot;Large Deviations of the \\\(\Phi^4_3\\\) Measure via Stochastic Quantisation.&quot; <i>Preprint</i>, DOI: <a href="https://doi.org/10.48550/arXiv.2402.00975">10.48550/arXiv.2402.00975</a>.'
 ---
 
