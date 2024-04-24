@@ -1,5 +1,5 @@
 ---
-title: Perturbation theory for the $Φ^4_3$ measure, revisited with Hopf algebras
+title: Perturbation theory for the $\Phi^4_3$ measure, revisited with Hopf algebras
 authors:
 - Nils Berglund
 - Tom Klose
