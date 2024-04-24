@@ -96,9 +96,9 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:tom.klose@warwick.ac.uk'
-  #- icon: twitter
-  #  icon_pack: fab
-  #  link: https://twitter.com/GeorgeCushen
+  - icon: arxiv
+    icon_pack: fab
+    link: https://arxiv.org/a/0000-0001-7102-6994.html
   #  label: Follow me on Twitter
   #  display:
   #    header: true
