@@ -39,14 +39,14 @@ interests:
 education:
   courses:
     - course: Dr. rer. nat. in Mathematics
-      institution: TU Berlin
-      year: 2012
-    - course: '' #MEng in Artificial Intelligence
-      institution: '' #Massachusetts Institute of Technology
-      year: '' #2009
-    - course: '' #BSc in Artificial Intelligence
-      institution: '' #Massachusetts Institute of Technology
-      year: '' #2008
+      institution: Technische Universität Berlin
+      year: 2022
+    #- course: '' #MEng in Artificial Intelligence
+    #  institution: '' #Massachusetts Institute of Technology
+    #  year: '' #2009
+    #- course: '' #BSc in Artificial Intelligence
+    #  institution: '' #Massachusetts Institute of Technology
+    #  year: '' #2008
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
