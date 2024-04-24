@@ -1,10 +1,9 @@
 ---
-title: 'hrefhttps://doi.org/10.1016/j.jfa.2022.109446Precise Laplace asymptotics for
-  singular stochastic PDEs: The case of 2D gPAM'
+title: 'Precise Laplace asymptotics for singular stochastic PDEs: The case of 2D gPAM'
 authors:
 - Peter K. Friz
 - Tom Klose
-date: '2022-01-01'
+date: '2021-02-26'
 publishDate: '2024-04-24T22:38:43.378657Z'
 publication_types:
 - article-journal
