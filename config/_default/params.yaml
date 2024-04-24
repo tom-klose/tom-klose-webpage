@@ -99,6 +99,7 @@ features:
     provider: 'mapnik'
     api_key: ''
     zoom: 15
+  math: true
 
 # Extensions
 
@@ -114,6 +115,4 @@ extensions:
 security:
   # Allow frame for embedding speaker notes in slides
   allow_frame: true
-
-# Maths
-  math: true
+  
