@@ -97,7 +97,7 @@ social:
     icon_pack: fas
     link: 'mailto:tom.klose@warwick.ac.uk'
   - icon: arxiv
-    #icon_pack: fas
+    icon_pack: academicons
     link: https://arxiv.org/a/0000-0001-7102-6994.html
   #  label: Follow me on Twitter
   #  display:
