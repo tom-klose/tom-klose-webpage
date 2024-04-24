@@ -1,5 +1,5 @@
 ---
-title: Large Deviations of the \(Phi^4_3\) Measure via Stochastic Quantisation
+title: Large Deviations of the $$\Phi^4_3$$ Measure via Stochastic Quantisation
 authors:
 - Tom Klose
 - Avi Mayorcas
