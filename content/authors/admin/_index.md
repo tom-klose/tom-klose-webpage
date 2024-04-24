@@ -29,17 +29,18 @@ bio: ''
 
 # Interests to show in About widget
 interests:
+  - Rough analysis
   - Singular stochastic PDEs
   - Mathematical QFT
   - Stochastic Quantisation
-  - (Sharp) Large deviations
+  - Large deviations
 
 # Education to show in About widget
 education:
   courses:
-    - course: '' #PhD in Artificial Intelligence
-      institution: '' #Stanford University
-      year: '' #2012
+    - course: Dr. rer. nat. in Mathematics
+      institution: TU Berlin
+      year: 2012
     - course: '' #MEng in Artificial Intelligence
       institution: '' #Massachusetts Institute of Technology
       year: '' #2009
