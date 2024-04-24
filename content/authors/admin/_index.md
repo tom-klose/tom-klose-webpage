@@ -1,6 +1,6 @@
 ---
 # Display name
-title: ''
+title: 'Tom Klose'
 
 # Name pronunciation (optional)
 name_pronunciation: ''
@@ -121,5 +121,5 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Welcome! I am a mathematician working in the area of Rough Analysis, (singular) stochastic PDEs, and mathematical Quantum Field Theory, especially Stochastic Quantisation. I am currently based at the University of Warwick, United Kingdom, where I am postdoctoral researcher in the group of <a href="https://giuseppecannizzaro.weebly.com">Giuseppe Cannizzaro</a>. Before that, I completed my doctorate at Technische Universität Berlin, Germany, under the supervision of <a href="https://page.math.tu-berlin.de/~friz/">Peter K. Friz</a>. I was also a fellow of the Berlin Mathematical School.
 {style="text-align: justify;"}
