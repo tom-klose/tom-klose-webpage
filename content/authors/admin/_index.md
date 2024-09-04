@@ -17,12 +17,12 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Postdoctoral Research Associate
+role: UKRI Postdoctoral Fellow
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: University of Warwick
-    url: https://warwick.ac.uk/fac/sci/statistics/
+  - name: University of Oxford
+    url: https://www.maths.ox.ac.uk
 
 # Short bio (displayed in user profile at end of posts)
 bio: ''
@@ -95,7 +95,7 @@ skills:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:tom.klose@warwick.ac.uk'
+    link: 'mailto:tom.klose@maths.ox.ac.uk'
   - icon: brands/arxiv
     #icon_pack: academicons
     link: https://arxiv.org/a/0000-0001-7102-6994.html
@@ -122,5 +122,5 @@ social:
 highlight_name: true
 ---
 
-Welcome! I am a mathematician working in the area of Rough Analysis, (singular) stochastic PDEs, and mathematical Quantum Field Theory, especially Stochastic Quantisation. I am currently based at the University of Warwick, United Kingdom, where I am postdoctoral researcher in the group of <a href="https://giuseppecannizzaro.weebly.com">Giuseppe Cannizzaro</a>. Before that, I completed my doctorate at Technische Universität Berlin, Germany, under the supervision of <a href="https://page.math.tu-berlin.de/~friz/">Peter K. Friz</a>. I was also a fellow of the Berlin Mathematical School.
+Welcome! I am a mathematician working in the area of Rough Analysis, (singular) stochastic PDEs, and mathematical Quantum Field Theory, especially Stochastic Quantisation. I am currently based at the University of Oxford where I am supported by a UKRI Postdoctoral Fellowship (in guarantee of a Marie Curie Fellowship). My mentor is <a href="https://mgubi.github.io/docs/main.html">Massimiliano Gubinelli</a>. Before moving to Oxford, I was a postdoctoral researcher in the group of <a href="https://giuseppecannizzaro.weebly.com">Giuseppe Cannizzaro</a> at the University of Warwick. I completed my doctorate at TU Berlin, Germany, under the supervision of <a href="https://page.math.tu-berlin.de/~friz/">Peter K. Friz</a>. I was also a fellow of the Berlin Mathematical School.
 {style="text-align: justify;"}
