@@ -1,5 +1,5 @@
 ---
-title: The constant coefficient in precise Laplace asymptotics for gPAM
+title: 'The constant coefficient in precise Laplace asymptotics for gPAM'
 authors:
 - Tom Klose
 date: '2022-01-01'

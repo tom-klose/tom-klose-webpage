@@ -1,5 +1,5 @@
 ---
-title: Gaussian Rough Paths Lifts via Complementary Young Regularity
+title: 'Gaussian Rough Paths Lifts via Complementary Young Regularity'
 authors:
 - Paul Gassiat
 - Tom Klose
