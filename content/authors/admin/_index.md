@@ -96,8 +96,11 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:tom.klose@maths.ox.ac.uk'
-  - icon: brands/arxiv
-    #icon_pack: academicons
+  - icon: orcid
+    icon_pack: brands
+    link: https://orcid.org/0000-0001-7102-6994
+  - icon: arxiv
+    icon_pack: brands
     link: https://arxiv.org/a/0000-0001-7102-6994.html
   #  label: Follow me on Twitter
   #  display:
